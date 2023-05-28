@@ -8,5 +8,6 @@ public class BK25314 {
                 System.out.print("long ");
             }
             System.out.print("int");
+
 	}
 }

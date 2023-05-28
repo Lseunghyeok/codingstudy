@@ -1,0 +1,10 @@
+.feed{
+    display: flex;
+};
+.profile-img{
+    position: absolute;
+    top: -9px;
+    left: -9px;
+    height: 40px;
+    width: 25px;
+}
