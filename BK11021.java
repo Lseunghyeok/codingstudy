@@ -8,5 +8,6 @@ public class BK11021 {
 			int num2 = sc.nextInt();
 			System.out.println("Case #" + (i+1) + ": " + (num1+num2));
 		}
+		sc.close();;
 		}
 	}

@@ -10,6 +10,7 @@ public class BK10950 {
 			sum = num1+num2;
 			System.out.println(sum);
 		}
+		sc.close();
 		
 		
 	}
